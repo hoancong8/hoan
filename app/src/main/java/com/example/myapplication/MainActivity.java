@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity{
     String db="test";
     String tk="sa";
     String pwd="sa";
-
+String dalennha="";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -90,6 +90,6 @@ public class MainActivity extends AppCompatActivity{
         }
     }
     public void adddata(){
-        
+        //dalen nha kekeke
     }
 }
